@@ -1,0 +1,9 @@
+Synth reverse engineering.
+
+Synth:
+1) generate 1-2(4) on oscillators
+2) sum them in mixer
+3) random substracting shit
+
+Best Analyzer plugs or programs for sound reverse engineering:
+http://www.kvraudio.com/forum/viewtopic.php?t=312330
